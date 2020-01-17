@@ -1,3 +1,0 @@
----
-jboss_eap_svc_home: "{{ ansible_user_dir }}/jboss-eap"
-jboss_eap_svc_user: "{{ ansible_user }}"

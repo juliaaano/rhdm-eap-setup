@@ -1,9 +1,0 @@
----
-- name: install software packages
-  yum:
-    name:
-      - java-1.8.0-openjdk-devel
-      - unzip
-      - git
-    state: present
-  become: yes
